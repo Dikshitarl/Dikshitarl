@@ -1,24 +1,33 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
-  <h1> Dikshit Aryal </h1>
-  <p><strong>Software Engineer & Tech Enthusiast</strong></p>
+  <!-- Animated Neon Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=700&lines=DIKSHIT+ARYAL;CYBER+SECURITY+ANALYST;FULL-STACK+DEVELOPER;SYSTEM+ARCHITECT" alt="Typing SVG" />
+
+  <p><strong><code>[ SYSTEM_STATUS: OPERATIONAL ]</code></strong></p>
 
   <p>
-    <code>Architecting scalable systems</code> • 
-    <code>Exploring future tech</code> • 
-    <code>Open Source Contributor</code>
+    <code>🛡️ Cyber Defense</code> • 
+    <code>⚡ Offensive Security</code> • 
+    <code>🐍 Python & Low-Level Dev</code>
   </p>
 
-  <!-- Dynamic Stats Badge -->
-  <a href="https://github.com/Dikshitarl/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dikshitarl&show_icons=true&theme=dark&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=8f9ca7&bg_color=0d1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Dikshitarl/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshitarl&layout=compact&theme=dark&hide_border=true&title_color=00f0ff&text_color=8f9ca7&bg_color=0d1117" alt="Top Languages" />
-  </a>
+  <br />
+
+  <!-- Animated Cyber Wave Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=ROOT%20ACCESS%20GRANTED&fontSize=20&fontColor=00F0FF&animation=twinkle" width="100%" />
 
 </div>
 
+---
 
+### 💻 `whoami --verbose`
 
+```terminal
+[root@dikshitarl ~]# cat profile.json
+{
+  "operator": "Dikshit Aryal",
+  "role": "Security Researcher & Software Engineer",
+  "active_protocols": ["Network Reconnaissance", "Malware Analysis", "Secure Code Audit"],
+  "primary_languages": ["Python", "C/C++", "JavaScript", "Bash"],
+  "target": "Building resilient, unbreachable architectures"
+}
