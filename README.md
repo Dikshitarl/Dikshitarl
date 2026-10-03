@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / Title -->
-  <h1>⚡ <code>SYSTEM.INIT()</code></h1>
+  <h1>⚡ Who am I ??? </h1>
   <p><strong>Software Engineer & Tech Enthusiast</strong></p>
 
   <p>
@@ -20,13 +20,5 @@
 
 </div>
 
----
 
-### 📡 System Overview
 
-const developer = {
-  name: "Dikshit Aryal",
-  status: "Building next-generation web applications",
-  focus: ["Distributed Systems", "Full-Stack Development", "UI/UX Engineering"],
-  location: "Earth",
-};
