@@ -12,10 +12,10 @@
 
   <!-- Dynamic Stats Badge -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=8f9ca7&bg_color=0d1117" alt="GitHub Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Dikshitarl&show_icons=true&theme=dark&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=8f9ca7&bg_color=0d1117" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=00f0ff&text_color=8f9ca7&bg_color=0d1117" alt="Top Languages" />
+  <a href="https://github.com/Dikshitarl/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshitarl&layout=compact&theme=dark&hide_border=true&title_color=00f0ff&text_color=8f9ca7&bg_color=0d1117" alt="Top Languages" />
   </a>
 
 </div>
@@ -24,9 +24,8 @@
 
 ### 📡 System Overview
 
-```javascript
 const developer = {
-  name: "YOUR_NAME",
+  name: "Dikshit Aryal",
   status: "Building next-generation web applications",
   focus: ["Distributed Systems", "Full-Stack Development", "UI/UX Engineering"],
   location: "Earth",
